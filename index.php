@@ -1,1 +1,1 @@
-<?php header( 'Location: /material-kit-html-v2.0.4/examples/index.html' ) ;  ?>
+<?php header( 'Location: /material-kit-html-v2.0.4/examples/landing-page.html' ) ;  ?>
